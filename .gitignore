@@ -4,7 +4,7 @@ dist
 package-lock.json
 yarn.lock
 *.zip
-
+README.md
 # local env files
 .env.local
 .env.*.local
